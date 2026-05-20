@@ -33,5 +33,5 @@ Experience in full-stack development and data-driven web applications, including
 ---
 
 ## 🔗 Links
-- Kaggle: https://www.kaggle.com/hilmicanyumak
+- Kaggle: https://www.kaggle.com/hilmicanyumak/code
 - LinkedIn: https://www.linkedin.com/in/hilmi-can-yumak-7562673b6
